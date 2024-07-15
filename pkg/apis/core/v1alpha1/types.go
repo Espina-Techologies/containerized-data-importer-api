@@ -18,7 +18,7 @@ package v1alpha1
 
 import (
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
-	cdiv1 "kubevirt.io/containerized-data-importer-api/pkg/apis/core/v1beta1"
+	cdiv1 "github.com/Espina-Techologies/containerized-data-importer-api/pkg/apis/core/v1beta1"
 )
 
 // this has to be here otherwise informer-gen doesn't recognize it

@@ -5,7 +5,7 @@ import (
 	"k8s.io/apimachinery/pkg/runtime"
 	"k8s.io/apimachinery/pkg/runtime/schema"
 
-	"kubevirt.io/containerized-data-importer-api/pkg/apis/forklift"
+	"github.com/Espina-Techologies/containerized-data-importer-api/pkg/apis/forklift"
 )
 
 // SchemeGroupVersion is group version used to register these objects

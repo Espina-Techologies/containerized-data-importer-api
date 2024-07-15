@@ -23,7 +23,7 @@ import (
 	k8serrors "k8s.io/apimachinery/pkg/api/errors"
 	"k8s.io/klog/v2"
 
-	"kubevirt.io/containerized-data-importer-api/pkg/apis/core"
+	"github.com/Espina-Techologies/containerized-data-importer-api/pkg/apis/core"
 )
 
 const (
